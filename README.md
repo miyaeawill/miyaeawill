@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miyaeawill
-- 👀 I’m interested in Marketing, and tech
+- 👀 I’m interested in Marketing, and Tech
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 N/A
