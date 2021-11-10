@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miyaeawill
 - 👀 I’m interested in Marketing, and Tech
 - 🌱 I’m currently learning C
-- ✨ I'm polishing up my SQL skills 
+- ✨ I'm polishing up my SQL and JavaScript skills 
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 N/A
 
