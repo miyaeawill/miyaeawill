@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @miyaeawill
-- 👀 I’m interested in Analytics, Product Marketing, and Software Engineering
-- 🌱 I’m currently learning C
-- ✨ I'm polishing up my SQL and JavaScript skills 
-- 💞️ I’m not looking to collaborate on nothing at the moment
+- 👀 I'm a student in Computer coding
+- 🌱 I know Python , C++, and currently learning Java
+- ✨ I am currerntly transitioning to a QA Analyst role
+- ✨ I have Agile and Scrum fundamentals and basics certifications
+- ✨ I have work history in network security and threats 
 - 📫 N/A
 
 <!---
