@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miyaeawill
-- 👀 I'm a student in Computer coding
-- 🌱 I know Python , C++, and currently learning Java
+- 👀 I'm a student in a Computer Coding graduate certificate program
+- 🌱 I know Python , C++, and Java currently learning Data Structures
 - ✨ I am currerntly transitioning to a Software Testing or a QA Analyst role
 - ✨ I have obtain certifications in Agile and Scrum fundamentals
 - ✨ I know how to use Jira and Postman
