@@ -18,9 +18,9 @@ I’m a motivated student currently enrolled in the **Computer Coding Graduate C
 ## 💼 VP Events & Outreach Portfolio
 This repository highlights my work as **VP of Events & Outreach** at TMAPS, including campaigns, templates, and student engagement initiatives:
 
-- [**Hands Off: Bill 33 Campaign**](https://github.com/miyaeawill/vp-events-and-outreach/tree/main/hands-off-bill-33-campaign) — Advocacy campaign with Bingo template and materials  
-- [Community Care Drive](https://github.com/miyaeawill/vp-events-and-outreach/tree/main/community-care-drive) — Donations and volunteer initiatives  
-- [Winter Wellness Week](https://github.com/miyaeawill/vp-events-and-outreach/tree/main/winter-wellness-week) — Health and engagement events  
+- [**Hands Off: Bill 33 Campaign**](https://github.com/miyaeawill/TMAPS-VP-Events-And-Outreach/tree/main/Hands-Off-Bill-33-Campaign) — Advocacy campaign with Bingo template and materials
+ 
+- [Mental Health Series](https://github.com/miyaeawill/TMAPS-VP-Events-And-Outreach/tree/main/Mental-Health-Series) — Health and engagement events  
 
 ---
 
@@ -32,7 +32,7 @@ This repository highlights my work as **VP of Events & Outreach** at TMAPS, incl
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Agile](https://img.shields.io/badge/Agile-F06C00?style=for-the-badge&logo=agile-software-development&logoColor=white)
 
-- **Programming & Development:** Python, C++, Java, Data Structures  
+- **Programming & Development:** Python, C++, Java, Data Structures (Currently Learning)  
 - **Testing & QA:** Postman, Software Testing basics  
 - **Project Management & Agile:** Jira, Agile & Scrum Fundamentals  
 - **Other Skills:** Cybersecurity, information management, event coordination  
@@ -41,11 +41,10 @@ This repository highlights my work as **VP of Events & Outreach** at TMAPS, incl
 
 ## 📫 Connect with Me
 - LinkedIn: [Miya Williams](https://www.linkedin.com/in/miya-williams)  
-- Email: miya.williams@email.com  
 
 ---
 
-✨ *I use GitHub to document my journey from student leadership to tech, sharing projects, resources, and professional growth in coding, testing, and QA. Explore my repositories and feel free to connect!*
+✨ *I use GitHub to document my journey navigating sports, leadership, tech, sharing projects, resources, and professional growth in coding, testing, and QA. Explore my repositories and feel free to connect!*
 
 - LinkedIn: [Miya Williams] (https://www.linkedin.com/in/miya-williams) 
 <!---
