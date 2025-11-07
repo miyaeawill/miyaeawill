@@ -4,7 +4,7 @@
 - ✨ I am currerntly transitioning to a Software Testing or a QA Analyst role
 - ✨ I have obtain certifications in Agile and Scrum fundamentals
 - ✨ I know how to use Jira and Postman
-- ✨ I have work history in utilizing cybersecurity, network security and threats, information management within the government of Canada
+- ✨ I have work history in utilizing cybersecurity, agile fundamentals, information management within the Government of Canada
 
 <!---
 miyaeawill/miyaeawill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
