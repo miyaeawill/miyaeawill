@@ -7,7 +7,7 @@ Hi, I’m @miyaeawill
 - ✨ I have work history in utilizing cybersecurity, agile fundamentals, information management within the Government of Canada
 - ✨ VP Events and Outreach @ TMAPS
 
-- LinkedIn: (https://www.linkedin.com/in/miya-williams) 
+- LinkedIn: [Miya Williams] (https://www.linkedin.com/in/miya-williams) 
 <!---
 miyaeawill/miyaeawill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
