@@ -39,8 +39,7 @@ This repository highlights my work as **VP of Events & Outreach** at TMAPS, incl
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [Miya Williams](https://www.linkedin.com/in/miya-williams)  
+![LinkedIn](https://www.linkedin.com/in/miya-williams)  
 
 ---
 
