@@ -39,13 +39,13 @@ This repository highlights my work as **VP of Events & Outreach** at TMAPS, incl
 
 ---
 
-![LinkedIn](https://www.linkedin.com/in/miya-williams)  
+ 
 
 ---
 
 ✨ *I use GitHub to document my journey navigating sports, leadership, tech, sharing projects, resources, and professional growth in coding, testing, and QA. Explore my repositories and feel free to connect!*
 
-- LinkedIn: [Miya Williams] (https://www.linkedin.com/in/miya-williams) 
+- LinkedIn: [ ] (https://www.linkedin.com/in/miya-williams) 
 <!---
 miyaeawill/miyaeawill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
