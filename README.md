@@ -1,6 +1,6 @@
 # Hi, I’m Miya Williams 👋
 
-**VP Events & Outreach @ TMAPS | Aspiring Software Tester / QA Analyst | Computer Coding Graduate Certificate Student**
+**VP Events & Outreach @ TMAPS | Computer Coding Graduate Certificate Student**
 
 ---
 
