@@ -11,7 +11,7 @@ I’m a motivated student currently enrolled in the **Computer Coding Graduate C
 ✨ Certified in **Agile and Scrum Fundamentals**  
 ✨ Experienced with **Jira** and **Postman** for project and test management  
 ✨ Work history includes **cybersecurity, Agile workflows, and information management** within the Government of Canada  
-✨ Vice President of Events & Outreach at **Toronto Metropolitan Association of Part-Time Students (TMAPS)**  
+✨ Vice President of Events & Outreach at Toronto Metropolitan University (Formerly known as Ryerson) **Toronto Metropolitan Association of Part-Time Students (TMAPS)**  
 
 ---
 
