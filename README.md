@@ -16,7 +16,7 @@ I’m a motivated student currently enrolled in the **Computer Coding Graduate C
 ---
 
 ## 💼 VP Events & Outreach Portfolio
-This repository highlights my work as **VP of Events & Outreach** at TMAPS, including campaigns, templates, and student engagement initiatives:
+This repository highlights my work as **VP of Events & Outreach** at Toronto Metropolitan University (Toronto Metropolitan Association of Part-Time Students), including event layout, campaigns, templates, and student engagement initiatives:
 
 - [**Hands Off: Bill 33 Campaign**](https://github.com/miyaeawill/TMAPS-VP-Events-And-Outreach/tree/main/Hands-Off-Bill-33-Campaign) — Advocacy campaign with Bingo template and materials
  
