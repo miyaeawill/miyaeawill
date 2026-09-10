@@ -1,6 +1,6 @@
 # Hi, I’m Miya Williams 👋
 
-**VP Events & Outreach @ TMAPS | Computer Coding Graduate Certificate Student**
+**Vice President Events & Outreach @ TMAPS | Computer Coding Graduate Certificate Student**
 
 ---
 
