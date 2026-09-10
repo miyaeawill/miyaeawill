@@ -1,6 +1,6 @@
 # Hi, I’m Miya Williams 👋
 
-**Vice President Events & Outreach @ TMAPS | Computer Coding Graduate Certificate Student**
+**Vice President Events & Outreach @ Toronto Metropolitan Association Part-Time Students | Computer Coding Graduate Certificate Student**
 
 ---
 
